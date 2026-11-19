@@ -1,0 +1,32 @@
+# Package Manifest
+
+- `AGENTS.md`
+- `MANIFEST.md`
+- `README.md`
+- `START-HERE.md`
+- `content/README.md`
+- `docs/01-decisions.md`
+- `docs/02-product-and-journeys.md`
+- `docs/03-ui-accessibility.md`
+- `docs/04-architecture.md`
+- `docs/05-auth-consent-security.md`
+- `docs/06-tutor-and-lesson-engine.md`
+- `docs/07-assessment-progress.md`
+- `docs/08-database.md`
+- `docs/09-api-contracts.md`
+- `docs/10-voice-and-session-timing.md`
+- `docs/11-content-ingestion.md`
+- `docs/12-safety-provider-and-launch-gates.md`
+- `docs/13-testing-acceptance.md`
+- `docs/14-roadmap-deployment.md`
+- `docs/15-open-decisions.md`
+- `prompts/00-start.md`
+- `prompts/01-audit-and-plan.md`
+- `prompts/02-scaffold-ui.md`
+- `prompts/03-auth-database-consent.md`
+- `prompts/04-content-retrieval.md`
+- `prompts/05-text-tutor.md`
+- `prompts/06-browser-voice.md`
+- `prompts/07-assessment-dashboards.md`
+- `prompts/08-test-and-deploy.md`
+- `templates/chapter.md`
